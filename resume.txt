@@ -1,0 +1,181 @@
+Josh Rosso
+=======================================================
+
+
+    email: joshrosso@gmail.com
+
+    technical blog: https://octetz.com
+
+    site: https://joshrosso.com
+
+    twitter: https://twitter.com/joshrosso
+
+    github: https://github.com/joshrosso
+
+
+
+Work History
+=======================================================
+
+
+
+    VMware: Staff Architect           [01/2019-present]
+    ---------------------------------------------------
+                                         
+      - joined via Heptio acquisition[0]
+
+      - technical leadership for vitalization, 
+        Kubernetes, and containers
+
+      - focus on field work and emerging Kubernetes
+        products within VMware       
+
+
+
+    Heptio: Staff Field Engineer      [03/2018-01/2019]
+    ---------------------------------------------------
+
+      - architected Kubernetes platforms for some of 
+        largest banks and telcos in the United States
+
+      - provided technical leadership for a subset 
+        of engineers in the field
+
+
+
+    Red Hat: Senior Software Engineer [02/2018-03/2018]
+    ---------------------------------------------------
+
+     - joined via CoreOS acquisition[1]
+
+     - engineering of operators[2] to automate 
+       deployment and application lifecycle
+
+     - left shortly after the acquisition because I 
+       did not believe in OpenShift's approach to 
+       Kubernetes
+
+
+
+    CoreOS: Senior Field Engineer    [10/2016-02/2018]
+    --------------------------------------------------
+
+      - consulted fortune 500 companies on Kubernetes
+        architecture and engineering
+
+      - SIG-aws member and co-authored the Kubernetes
+        alb-ingress-controller[3]
+
+      - engineered parts of CoreOS's Tectonic
+        Enterprise Kubernetes solution. Namely
+        Spotinst integration and PodSecurityPolicy 
+        support
+
+      - authored CoreOS's Kubernetes Essentials
+        training
+
+
+
+    MuleSoft: Senior Consultant      [12/2013-10/2016]
+    --------------------------------------------------
+
+      - consulted fortune 500 companies on API
+        architecture and engineering
+
+      - wrote an API gateway used by one of MuleSoft's
+        largest customers featuring dynamic
+        reconfiguration of [API] routes
+
+      - wrote MuleSoft's internal marketing 
+        integration
+
+      - provided technical leadership around
+        performance and stability of JVM-based systems
+
+      - wrote advanced development and architecture 
+        courseware for training department
+
+
+
+    Hyland Software: Trainer         [07/2012-12/2013]
+    --------------------------------------------------
+
+      - authored and delivered 2 week technical
+        training taken by Hyland engineers,
+        consultants and parters
+
+      - engineered pre-sales use case and reference
+        implementation for relational database product
+
+
+
+    Apple: Instructor                [10/2009-07/2012]
+    --------------------------------------------------
+
+      - technical and soft skill instruction for 
+        various Apple Retail markets
+
+      - while not an incredibly technical role,
+        learned invaluable consulting, teaching, and
+        facilitation skills
+
+
+
+Projects, Content, and Talks
+=======================================================
+
+
+
+    Content: octetz.com
+    ---------------------------------------------------
+
+      - my technical blog covering systems engineering
+        concepts and more
+
+      - features blog posts and recorded demos
+
+      - https://octetz.com
+
+
+
+    Project: Kubernetes alb-ingress-controller
+    ---------------------------------------------------
+
+      - co-authored[4] the ingress controller that 
+        enables AWS Application Load Balancers to be 
+        used for ingress in Kubernetes
+
+      - adopted by AWS and sig-aws
+
+      - https://github.com/kubernetes-sigs/
+        aws-alb-ingress-controller
+
+
+
+    Talk: Self-hosted K8s: Kubernetes Meetup Boulder
+    ---------------------------------------------------
+
+      - delivered a talk around the internals of our 
+        work on bootkube, a tool that enables 
+        Kubernetes to be self-hosted
+
+      - https://youtu.be/Be1t2wTV0mE
+
+
+
+    Talk: Bringing AWS Application Load Balancer 
+          Support to Kubernetes
+    ---------------------------------------------------
+
+      - delivered a talk around our development work
+        for the alb-ingress-controller featuring the 
+        other author and AWS.
+
+      - https://youtu.be/OiNK6H4CTCg
+
+
+
+[0]: https://techcrunch.com/2018/11/06/vmware-acquires-heptio-the-startup-founded-by-2-co-founders-of-kubernetes
+[1]: https://www.forbes.com/sites/janakirammsv/2018/01/30/red-hat-acquires-coreos-for-250-million
+[2]: https://github.com/operator-framework
+[3]: https://github.com/kubernetes-sigs/aws-alb-ingress-controller/contributors
