@@ -6,8 +6,6 @@ Josh Rosso
 
     technical blog: https://octetz.com
 
-    site: https://joshrosso.com
-
     twitter: https://twitter.com/joshrosso
 
     github: https://github.com/joshrosso
@@ -24,7 +22,7 @@ Work History
                                          
       - joined via Heptio acquisition[0]
 
-      - technical leadership for vitalization, 
+      - technical leadership for virtualization, 
         Kubernetes, and containers
 
       - focus on field work and emerging Kubernetes
@@ -136,6 +134,36 @@ Projects, Content, and Talks
 
       - https://octetz.com
 
+    Content: TGIK
+    ---------------------------------------------------
+
+      - TGIK is a weekly show started at Heptio where
+        we livestream ourselves playing with,
+        deploying, and teaching new cloud native
+        technologies.
+
+      - all episodes: https://tgik.io
+
+      - episodes I delivered:
+
+        - PSPs: https://youtu.be/zErhwjPRKn8
+
+        - Network Policy: https://youtu.be/gzzq7TGBsL8
+
+        - Cluster Autoscaler: 
+          https://youtu.be/NY7pyRNrHzE
+
+        - Cilium: https://youtu.be/se4soMN4fDg
+
+        - Flagger: https://youtu.be/HQX6wImrLTw
+
+    Content: The Podlets Podcast
+    ---------------------------------------------------
+
+      - host at The Podlets Podcast, where we cover
+        cloud native concepts, 1 buzz word at a time.
+
+      - site: https://thepodlets.io/
 
 
     Project: Kubernetes alb-ingress-controller
@@ -151,8 +179,20 @@ Projects, Content, and Talks
         aws-alb-ingress-controller
 
 
+    Talk: Real World k8s Deployment Patterns
+          @ Kubecon, 2019, Barcelona
+    ---------------------------------------------------
 
-    Talk: Self-hosted K8s: Kubernetes Meetup Boulder
+      - delivered a talk around common deployment
+        considerations and patterns. Share collective
+        experience (successes and failures) from over
+        100 Kubernetes deployments across the globe.
+
+      - https://youtu.be/Rb0JMVVZ1N8
+
+
+    Talk: Self-hosted K8s
+          @ k8s Meetup, Boulder
     ---------------------------------------------------
 
       - delivered a talk around the internals of our 
@@ -165,6 +205,7 @@ Projects, Content, and Talks
 
     Talk: Bringing AWS Application Load Balancer 
           Support to Kubernetes
+          @ CoreOS Fest
     ---------------------------------------------------
 
       - delivered a talk around our development work
